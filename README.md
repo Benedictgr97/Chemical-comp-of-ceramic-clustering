@@ -19,6 +19,8 @@ The aim is to deduce any groupings of glazings and body compositions to see if t
 From this we can conclude that body cluster 2 and glaze cluster 2 have their own groups and come from the same era leading to the overlap.
 Body cluster 1 has 2 types of glazes that is used from glaze cluster 3 and 1 so a similar Body composition was used across era's with the glaze changing.
 
+Overlaping clusters can be drawn out later to see how body and glaze groups overlap 
+
 | Body | Glaze | Overlap Rate |
 |------|-------|--------------|
 | 1    | 1     | 0.36         |
@@ -28,6 +30,9 @@ Body cluster 1 has 2 types of glazes that is used from glaze cluster 3 and 1 so 
 | 2    | 3     | 0.05         |
 | 2    | 2     | 0.48         |
 
+## Limitations 
+- The cermic and body naming conventions where no given even though the counterparts to each where given the same name. Therefore, exact area and era of each cannot be found.
+- Nomrally values would be dropped that are outliers but we only have a small sample size for each (44 samples) meaning all data had to be included.
 
 ## file locations
 - [Clustering data]([https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours](https://archive.ics.uci.edu/dataset/583/chemical+composition+of+ceramic+samples)https://archive.ics.uci.edu/dataset/583/chemical+composition+of+ceramic+samples)
