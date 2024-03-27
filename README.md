@@ -35,6 +35,6 @@ Overlaping clusters can be drawn out later to see how body and glaze groups over
 - Nomrally values would be dropped that are outliers but we only have a small sample size for each (44 samples) meaning all data had to be included.
 
 ## file locations
-- [Clustering data]([https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours](https://archive.ics.uci.edu/dataset/583/chemical+composition+of+ceramic+samples)https://archive.ics.uci.edu/dataset/583/chemical+composition+of+ceramic+samples)
+- [Clustering data](https://archive.ics.uci.edu/dataset/583/chemical+composition+of+ceramic+samples)
 - [Pay (£)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours)
 
