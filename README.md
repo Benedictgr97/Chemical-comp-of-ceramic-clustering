@@ -36,4 +36,5 @@ Overlaping clusters can be drawn out later to see how body and glaze groups over
 
 ## file locations
 - [Clustering data]([https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours](https://archive.ics.uci.edu/dataset/583/chemical+composition+of+ceramic+samples)https://archive.ics.uci.edu/dataset/583/chemical+composition+of+ceramic+samples)
+- [Pay (£)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours)
 
