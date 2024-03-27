@@ -14,7 +14,8 @@ The aim is to deduce any groupings of glazings and body compositions to see if t
 6. Create clusters using the optimal number of groupings and see if there are overlaps in the body and glaze clusters to understand if there where similar methods used at different times
 7. Finally, deduce the key factors that decide the type of cluster by looking at the factor loadings on the PCA.
 
-##Results 
+##Results
+
 From this we can conclude that body cluster 2 and glaze cluster 2 have their own groups and come from the same era leading to the overlap.
 Body cluster 1 has 2 types of glazes that is used from glaze cluster 3 and 1 so a similar Body composition was used across era's with the glaze changing 
 
