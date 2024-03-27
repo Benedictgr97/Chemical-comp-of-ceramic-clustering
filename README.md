@@ -15,14 +15,15 @@ The aim is to deduce any groupings of glazings and body compositions to see if t
 7. Finally, deduce the key factors that decide the type of cluster by looking at the factor loadings on the PCA.
 
 ##Results 
-For data from the 06/23 and before the best **Customer Elasticity coefficients** are shown below:
+From this we can conclude that body cluster 2 and glaze cluster 2 have their own groups and come from the same era leading to the overlap.
+Body cluster 1 has 2 types of glazes that is used from glaze cluster 3 and 1 so a similar Body composition was used across era's with the glaze changing 
 
-| Metric                  | Customer Elasticity coefficient |
-|-------------------------|---------------------------------|
-| Liquid fuels            |     3100                        |
-| Gas                     |     2614                        |
-| inflation index 23 days | -7388000                        |
-| Solid fuels 39 days     | -1754000                        |
+Cluster: Body :1 , glaze:1 , Overlap_rate: 0.36 
+Cluster: Body :1 , glaze:3 , Overlap_rate: 0.42 
+Cluster: Body :1 , glaze:2 , Overlap_rate: 0.02 
+Cluster: Body :2 , glaze:1 , Overlap_rate: 0.0 
+Cluster: Body :2 , glaze:3 , Overlap_rate: 0.05 
+Cluster: Body :2 , glaze:2 , Overlap_rate: 0.48 
 
 ## .gov file locations
 - [Pay (£)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours)
