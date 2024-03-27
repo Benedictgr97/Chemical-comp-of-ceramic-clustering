@@ -19,12 +19,15 @@ The aim is to deduce any groupings of glazings and body compositions to see if t
 From this we can conclude that body cluster 2 and glaze cluster 2 have their own groups and come from the same era leading to the overlap.
 Body cluster 1 has 2 types of glazes that is used from glaze cluster 3 and 1 so a similar Body composition was used across era's with the glaze changing 
 
-Cluster: Body :1 , glaze:1 , Overlap_rate: 0.36 
-Cluster: Body :1 , glaze:3 , Overlap_rate: 0.42 
-Cluster: Body :1 , glaze:2 , Overlap_rate: 0.02 
-Cluster: Body :2 , glaze:1 , Overlap_rate: 0.0 
-Cluster: Body :2 , glaze:3 , Overlap_rate: 0.05 
-Cluster: Body :2 , glaze:2 , Overlap_rate: 0.48 
+| Body | Glaze | Overlap Rate |
+|------|-------|--------------|
+| 1    | 1     | 0.36         |
+| 1    | 3     | 0.42         |
+| 1    | 2     | 0.02         |
+| 2    | 1     | 0.0          |
+| 2    | 3     | 0.05         |
+| 2    | 2     | 0.48         |
+
 
 ## .gov file locations
 - [Pay (£)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours)
